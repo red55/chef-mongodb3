@@ -16,5 +16,5 @@ supports 'amazon'
 
 depends 'apt'
 depends 'yum'
-#depends 'user'
+# depends 'user'
 depends 'runit', '~> 1.7.0'
