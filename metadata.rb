@@ -18,4 +18,4 @@ supports 'amazon'
 # depends 'yum'
 # depends 'user'
 
-depends 'runit', '~> 1.7.0'
+depends 'runit', '~> 1.8.0'
